@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 100%;
+}
+
+h1 {
+    align-content: center;
+}
+html {
+    height: 100%;
+}
